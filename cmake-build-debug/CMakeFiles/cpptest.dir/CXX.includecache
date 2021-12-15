@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ClionProjects/cpptest/omni_wheel.h
+
+C:/ClionProjects/cpptest/test_p.cpp
+omni_wheel.h
+C:/ClionProjects/cpptest/omni_wheel.h
+iostream
+-
+
